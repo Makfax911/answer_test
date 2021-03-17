@@ -1,0 +1,64 @@
+Уважаемые участники интенсива «Основы программирования на Java», обратите внимание:
+1. Цель занятия: дать общее представление о Java и процессе разработки.
+2. Длительность занятия от 1.5 до 2х часов, запись будет в разделе Материалы урока.
+3. Выдача, выполнение и оценка домашнего задания не предполагаются.
+4. Если ваш опыт программирования равен 0 - проработайте статью «Быстрый старт с Java».
+5. До начала рекомендуется установить JDK 8u202, краткая инструкция есть в статье.
+6. Презентацию можно увидеть в docs.google.com по этой ссылке
+7. Желаете большего - читайте статьи серии Java. Быстрый старт
+
+Приветствие:
+Всем привет, скоро начинаем. Если уже кто пришел и есть вопросы - не стесняйтесь, пишите, спрашивайте. И напишите - что лично вы ждёте от этого интенсива?
+
+JDK 8u202 - последняя сборка non-commerce
+https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+
+Установка JDK и настройка системных переменных Windows 10
+https://bit.ly/2xpnqtw
+
+Java: быстрый старт (презентация)
+https://bit.ly/2xvVX97
+
+Java: быстрый старт:
+https://bit.ly/33TD8c2 | https://geekbrains.ru/posts/java_quick_start_part1
+
+Изучаем Java: 7 первых шагов
+https://bit.ly/2JpL0Zt
+
+Что такое Java Core? https://geekbrains.ru/posts/chto-takoe-java-core | https://bit.ly/2EXeS0m | https://docs.google.com/document/d/1RggtaDyZ3O-WJnKkqIV4jzMVApIMxArh_Ngn1TZqy48/
+
+Учим Java: 10 практических советов
+https://bit.ly/3atJb9N | https://geekbrains.ru/posts/kak-uchit-java-10-prakticheskih-sovetov-dlya-novichkov
+
+Пишем код на Java и Go в текстовом редакторе
+https://bit.ly/3apw5KF | https://geekbrains.ru/posts/pishem-kod-na-java-i-go-v-tekstovom-redaktore
+
+Страница со ссылками на статьи по Java
+https://bit.ly/2UTEpwM
+
+IntelliJ IDEA для новичков: советы и секреты
+https://geekbrains.ru/events/770
+
+Телеграм-чат:
+https://t.me/joinchat/EuijNhMfrdv0AqK4lLapsw открыт для ваших вопросов.
+
+Изучение Java:
+https://javarush.ru/groups/posts/1902-kak-nachatjh-programmirovatjh
+https://javarush.ru/groups/posts/2398-java-plan-deystviy
+
+Переквалифицироваться в java-программиста (после 50), устроиться удаленщиком.
+https://smartprogress.do/goal/293741/
+
+С нуля до трудоустройства, Фуллстек Java + JS
+https://job4j.ru/courses/java_with_zero_to_job.html
+
+-- old version
+
+1. Основная цель: дать общее представление о Java и процессе разработки.
+2. Интенсив продлится от 1.5 до 2х часов, запись будет в Материалах урока.
+3. Приготовьтесь к тому что будет сложно, но интересно. Но сложно.
+4. Будет легче, если вы уже знакомы с Основами программирования https://geekbrains.ru/courses/754
+5. Полезно заранее ознакомиться с файлами/инструкциями в разделе Материалы урока.
+6. Также полезно заранее скачать и установить JDK 8 + IntelliJ IDEA Community Edition.
+7. Желающим продолжения рекомендую видеокурс Java. Быстрый старт https://geekbrains.ru/courses/109
+8. Выполнение и оценка домашнего задания не предполагается.

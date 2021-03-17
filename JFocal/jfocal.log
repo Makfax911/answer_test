@@ -1,0 +1,52 @@
+2020-03-18 init day: reading language guide and thinking
+2020-03-19 added an interpreter base
+2020-03-20 using constants
+2020-03-21 basic work with program lines (enter, write)
+2020-03-22 reading and writing program file, erasing all program lines
+2020-03-23 start of implementation TYPE command
+2020-03-24 expressions calculation, SET command, variables, comments
+2020-03-25 refactoring, ASK command
+2020-03-26 GO command, execution of linear programs
+2020-03-27 GOTO command, return null if error in expression
+2020-03-28 several commands per line, delimiter ';'
+2020-03-29 error handling in the GOTO command
+2020-03-30 IF command
+2020-03-31 FOR command
+2020-04-01 DO/RETURN commands first implementation
+2020-04-02 DO fixed implementation
+2020-04-03 FOR fixed implementation
+2020-04-04 built-in FNNN() functions in calculations
+2020-04-05 created the Function class
+2020-04-06 error handling in expressions
+2020-04-07 number formatting in TYPE
+2020-04-08 shorten variable name and implemented TYPE $
+2020-04-09 improved implementation ERASE
+2020-04-10 improved implementation WRITE
+2020-04-11 file commands changed, improved GOTO
+2020-04-12 improved command IF
+2020-04-13 improved command DO
+2020-04-14 refactored method commandIf()
+2020-04-15 added types of brackets <>[] in expressions
+2020-04-16 GOTO and DO error handling, deleting 1 line
+2020-04-17 improved commands DO and FOR
+2020-04-18 fixed handling of functions in expressions
+2020-04-19 improved command DO
+2020-04-20 improved DO/RETURN
+2020-04-21 improved goProgram() method
+2020-04-22 deleted 'global' field numLine
+2020-04-23 fixed Iterator
+2020-04-24 special splitting for ASK and TYPE
+2020-04-25 empty parameter for FRAN()
+2020-04-26 method to convert string of letters to number
+2020-04-27 error handling RETURN without DO
+2020-04-28 erasing a group of lines by group number
+2020-04-29 fixed error using function in Calculate
+2020-04-30 fixed pattern for numbers in TYPE
+2020-05-01 print values of variables in a method
+2020-05-02 arrays in SET command
+2020-05-03 added one-dimensional arrays
+2020-05-04 minor fixes
+2020-05-05 minor fixes
+2020-05-06 minor fixes
+2020-05-16 minor fixes
+2020-05-21 error handling when entering a program line

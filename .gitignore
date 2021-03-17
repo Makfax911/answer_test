@@ -1,0 +1,10 @@
+*.class
+*.ini
+*.life
+*.ctxt
+*.bluej
+target
+build
+*.iml
+.idea
+.gradle

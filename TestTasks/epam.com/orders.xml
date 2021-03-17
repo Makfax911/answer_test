@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<orders>
+  <order>
+    <client>Пупкин А.</client>
+    <item>4</item><item>11</item><item>15</item><item>1</item>
+  </order>
+  <order>
+    <client>Кривенко С.</client>
+    <item>5</item><item>8</item><item>12</item><item>14</item><item>3</item>
+  </order>
+  <order>
+    <client>Гайченов П.</client>
+    <item>9</item><item>10</item><item>1</item><item>2</item>
+  </order>
+  <order>
+    <client>Сухожилов Л.</client>
+    <item>4</item><item>8</item><item>11</item><item>14</item><item>2</item>
+  </order>
+</orders>

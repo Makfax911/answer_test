@@ -1,0 +1,7 @@
+1.1 TYPE "1st",!
+1.2 TYPE "2nd",!
+1.3 GOTO 1.5
+1.4 TYPE "4th",!
+1.5 TYPE "5th",!
+1.6 TYPE "6th",!
+1.7 QUIT

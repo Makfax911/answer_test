@@ -1,0 +1,35 @@
+Java 3. Знания и навыки по окончании курса
+
+0. Введение
+
+Знания и навыки, полученные при прохождении курсов Java 1, 2 (Java1KnowledgeAndSkills.txt, Java2KnowledgeAndSkills.txt).
+
+1. Обобщения
+
+Обобщения как параметризированные типы. Простейщий пример обобщённого класса. Цель использования обобщений - безопасность. Обобщённый класс с несколькими параметрами типа. Ограниченные типы (<T extends superclass>). Использование метасимвольных аргументов (<?>). Ограничения на статические члены. Ограничения обобщенных исключений.
+
+2. Базы данных
+
+Реляционные базы данных, SQLite database. Язык запросов SQL. Операторы SELECT, INSERT, UPDATE, DELETE. Подключение к базе через JDBC. Отправка запросов и обработка результатов.
+
+3. Потоки ввода-вывода
+
+Понятие потока ввода-вывода (Stream). Пакет java.io. Класс File (файлы и каталоги). Байтовые и символьные потоки. Байтовый ввод-вывод, абстрактные классы InputStream и OutputStream, классы ByteArrayInputStream и ByteArrayOutputStream, FileInputStream и FileOutputStream, PipedInputStream и PipedOutputStream, класс SequenceInputStream. Буферизация, классы BufferedInputStream и BufferedOutputStream. Работа с примитивными типами, классы DataInputStream и DataOutputStream. Сериализация, маркерный интерфейс Serializable, классы ObjectInputStream и ObjectOutputStream. Символьный ввод-вывод, абстрактные классы Reader и Writer. Доступ к данным в произвольном порядке, класс RandomAccessFile.
+
+4. Многопоточность
+
+5. Логгирование и тестирование
+
+6. Reflection и аннотации
+
+Дополнительно:
+
+Git, быстрый старт. Видеокурс https://geekbrains.ru/courses/66
+SOLID - https://urvanov.ru/2018/05/31/ https://ru.wikipedia.org/wiki/SOLID
+
+Прочитанная дополнительная литература:
+
+1. Блинов, Романчик, Java. Методы программирования (главы ...)
+2. Брюс Эккель, Философия Java ( главы ...)
+3. Герберт Шилдт, Java 8. Руководство для начинающих (главы ...)
+4. Герберт Шилдт, Java 8. Полное руководство (главы ...)
